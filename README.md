@@ -1,3 +1,3 @@
-# C#-and-Unity-Practice
+# C-and-Unity-Practice
 
-My Practice to use C# language and unity
+My Practice to use C++, C# language and unity
